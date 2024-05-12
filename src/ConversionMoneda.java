@@ -9,7 +9,7 @@ public class ConversionMoneda {
 
     public static double conversion(String target, String origin, double mount) {
         try {
-            URI direccion = URI.create("https://v6.exchangerate-api.com/v6/62fa5939481430fa32ace45c/pair/" + origin + "/" + target + "/" + mount);
+            URI direccion = URI.create("https://v6.exchangerate-api.com/v6/api_key_here/pair/" + origin + "/" + target + "/" + mount);
 
             HttpClient client = HttpClient.newHttpClient();
 
