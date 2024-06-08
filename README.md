@@ -22,7 +22,7 @@ Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes bifurcar el repo
 
 ## Autor
 
-Este proyecto fue desarrollado por [Tu Nombre].
+Este proyecto fue desarrollado por Noe Ulises Machaca Chambilla.
 
 ## Licencia
 
